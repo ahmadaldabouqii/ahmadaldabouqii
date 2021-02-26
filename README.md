@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="C:\Users\ahmad\Downloads\img.jpg?raw=true"></a>
+## Find me around the web 🌎: 
+<img align="left" width="150" height="150" src="C:\Users\ahmad\Downloads\img.jpg?raw=true"></a>

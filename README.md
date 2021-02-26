@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 ## Find me around the web 🌎: 
-![]("C:\Users\ahmad\Downloads\img.jpg?raw=true")
+![](C:\Users\ahmad\Downloads\img.jpg?raw=true)

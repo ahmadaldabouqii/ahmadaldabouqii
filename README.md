@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - Learning in public on <a href="https://www.instagram.com/ahmad_aldabouqi/">instagram</a>
 - Tinkering with interactions on <a href="https://www.facebook.com/mmmmmmmgymmmmmmmmmm/"> Facebook</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/ahmad-aldabouqi-3bb722160/">LinkedIn</a> 💼
+- My Email 📫 aldabouqiahmad@gmail.com

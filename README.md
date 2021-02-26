@@ -1,6 +1,6 @@
 # Hey, I'm Ahmad! 👨🏾‍💻 👋
 
-<img src="http://blog.algorithmia.com/wp-content/uploads/2016/04/github-readme-analyzer-1.png">
+<img src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
 
 Here are some ideas to get you started:
 

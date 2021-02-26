@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ## Find me around the web 🌎: 
-![photo](ahmad\Downloads\img.jpg)
+
+<img src="ahmad\Downloads\img.jpg">

@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ## Find me around the web 🌎: 
 
-<img src="Downloads\img.jpg">
+<img img align="left" width="150" height="150" src="https://mpng.subpng.com/20180526/tz/kisspng-github-computer-security-fork-security-hacker-5b093b09a0dc66.7963438415273315936589.jpg">

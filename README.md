@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ## Find me around the web 🌎: 
 
-<img src="ahmad\Downloads\img.jpg">
+<img src="Downloads\img.jpg">

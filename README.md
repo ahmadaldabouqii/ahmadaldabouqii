@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 ## Find me around the web 🌎: 
-![zx] (C:\Users\ahmad\Downloads\img.jpg)
+![photo](C:\Users\ahmad\Downloads\img.jpg)

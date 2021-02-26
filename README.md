@@ -7,5 +7,5 @@
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://mpng.subpng.com/20180526/tz/kisspng-github-computer-security-fork-security-hacker-5b093b09a0dc66.7963438415273315936589.jpg"></a>
 - 🔵 <a href="https://www.facebook.com/mmmmmmmgymmmmmmmmmm/" > <b> Facebook </b> </a>
-- 🔴 <a href="https://www.instagram.com/ahmad_aldabouqi/">Instagram</a> 
-- 💼 <a href="https://www.linkedin.com/in/ahmad-aldabouqi-3bb722160/">LinkedIn</a> 
+- 🔴 <a href="https://www.instagram.com/ahmad_aldabouqi/"> <b>Instagram</b></a> 
+- 💼 <a href="https://www.linkedin.com/in/ahmad-aldabouqi-3bb722160/"><b>LinkedIn</b></a> 

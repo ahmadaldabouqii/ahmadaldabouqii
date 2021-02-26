@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 ## Find me around the web 🌎: 
-<img align="left" width="150" height="150" src="C:\Users\ahmad\Downloads\img.jpg?raw=true"></a>
+<img align="left" width="150" height="150" src="C:\Users\ahmad\Downloads\img.jpg?raw=true">

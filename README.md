@@ -1,6 +1,6 @@
 # Hey, I'm Ahmad! 👨🏾‍💻 👋
 
-<img height="450" width="450" src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
+<img height="450" width="850" src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
 
 A 𝒇𝒓𝒆𝒔𝒉 𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆 from Al-Zaytoonah University in computer information system (CIS) department.
 I have some previous work experience here in Amman, I trained in a company as an Android developer.

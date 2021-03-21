@@ -10,7 +10,7 @@
 - 🔵 <a href="https://www.facebook.com/mmmmmmmgymmmmmmmmmm/" > <b> Facebook </b> </a>
 - 🔴 <a href="https://www.instagram.com/ahmad_aldabouqi/"> <b>Instagram</b></a>
 
-<a href="https://twitter.com/AldabouqiAhmad">
+<a href="https://twitter.com/Ahmad_AlDabouqi">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 <a href="https://dev.to/ahmadaldabouqii">

@@ -50,4 +50,4 @@
 <a href="https://www.facebook.com/mmmmmmmgymmmmmmmmmm/"><img src="https://img.shields.io/badge/-Ahmad_AlDabouqi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-![Ahmad AlDabouqi](https://raw.githubusercontent.com/ahmadaldabouqii/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+![Ahmad AlDabouqi](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)

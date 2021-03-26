@@ -8,7 +8,7 @@
 *I'm a junior software engineer, I am 23 years old,*
 *I Was Studied at <a href="https://www.zuj.edu.jo/">AlZaytoonah Private University</a> in Computer Information System Department(CIS). I have some previous work experience here in Amman*, ***I trained in a company as an Android developer. Some technologies I enjoy working with include Android(Java), Firebase, (JavaScript, HTML+CSS). Now I am studying software development at ASAC.***
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/ahmadaldabouqii">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadaldabouqii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadaldabouqii&layout=compact&langs_count=8&theme=algolia"/>

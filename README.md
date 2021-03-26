@@ -31,14 +31,13 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-
 <p align="center">
-<a href="https://github.com/ahmadaldabouqii">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ahmadaldabouqii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Ahmad Github Stats"/>
+
+ <a href="https://github.com/ahmadaldabouqii">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ahmadaldabouqii&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Ahmad Github Stats"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadaldabouqii&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -50,5 +49,6 @@
 <a href="https://instagram.com/ahmad_aldabouqi/"><img src="https://img.shields.io/badge/-@db-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/mmmmmmmgymmmmmmmmmm/"><img src="https://img.shields.io/badge/-Ahmad_AlDabouqi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+</a>
 
 ![Ahmad AlDabouqi](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)

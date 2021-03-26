@@ -8,12 +8,12 @@
 *I'm a junior software engineer, I am 23 years old,*
 *I Was Studied at <a href="https://www.zuj.edu.jo/">AlZaytoonah Private University</a> in Computer Information System Department(CIS). I have some previous work experience here in Amman*, ***I trained in a company as an Android developer. Some technologies I enjoy working with include Android(Java), Firebase, (JavaScript, HTML+CSS). Now I am studying software development at ASAC.***
 
-<p align="center">
+
 <a href="https://github.com/ahmadaldabouqii">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadaldabouqii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadaldabouqii&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadaldabouqii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadaldabouqii&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+
 ## *Find me around the web 🌎:* <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://mpng.subpng.com/20180526/tz/kisspng-github-computer-security-fork-security-hacker-5b093b09a0dc66.7963438415273315936589.jpg"></a>
 - 🔵 <a href="https://www.facebook.com/mmmmmmmgymmmmmmmmmm/" > <b> Facebook </b> </a>
 - 🔴 <a href="https://www.instagram.com/ahmad_aldabouqi/"> <b>Instagram</b></a>

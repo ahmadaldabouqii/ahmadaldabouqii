@@ -1,5 +1,6 @@
 <!-- <h2><img src="./img/HandWave.gif" width='40px' align="left"/> Hey there! I'm Ahmad</h2> -->
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmad</h2></p>
+<div>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmad</h2></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadaldabouqii&style=plastic&label=Profile+visits" alt="ahmadaldabouqii" /> </p>
 <p align="center">

@@ -1,4 +1,4 @@
-<img src="./img/Hand%20Wave.gif" style="padding-top:10px;" width='35px' align="left"/><h2 style="margin:0;">Hey there! I'm Ahmad</h2>
+<h2><img src="./img/HandWave.gif" width='35px' align="left"/> Hey there! I'm Ahmad</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadaldabouqii&style=plastic&label=Profile+visits" alt="ahmadaldabouqii" /> </p>
 <p align="center">

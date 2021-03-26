@@ -8,6 +8,8 @@
 *I'm a junior software engineer, I am 23 years old,*
 *I Was Studied at <a href="https://www.zuj.edu.jo/">AlZaytoonah Private University</a> in Computer Information System Department(CIS). I have some previous work experience here in Amman*, ***I trained in a company as an Android developer. Some technologies I enjoy working with include Android(Java), Firebase, (JavaScript, HTML+CSS). Now I am studying software development at ASAC.***
 
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/ahmadaldabouqii">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadaldabouqii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -16,20 +18,15 @@
 </p>
 
 
-## *Find me around the web 🌎:* <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://mpng.subpng.com/20180526/tz/kisspng-github-computer-security-fork-security-hacker-5b093b09a0dc66.7963438415273315936589.jpg"></a>
-- 🔵 <a href="https://www.facebook.com/mmmmmmmgymmmmmmmmmm/" > <b> Facebook </b> </a>
-- 🔴 <a href="https://www.instagram.com/ahmad_aldabouqi/"> <b>Instagram</b></a>
+### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://twitter.com/Ahmad_AlDabouqi">
-  <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
-</a>
-<a href="https://dev.to/ahmadaldabouqii">
-  <img align="left" alt="Vedant Jajoo DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ahmad-aldabouqi-3bb722160/">
-  <img align="left" alt="Vedant Jajoo Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
-<a href="https://www.quora.com/profile/Ahmad-Raed-11">
-  <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
-</a><br/><br/>
 <p align="center">
+<a href="https://twitter.com/Ahmad_AlDabouqi"><img src="https://img.shields.io/badge/-@Ahmad__AlDabouqi-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmad-aldabouqi-3bb722160/"><img src="https://img.shields.io/badge/-Ahmad%20AlDabouqi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aldabouqiahmad@gmail.com"><img src="https://img.shields.io/badge/-aldabouqiahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ahmad_aldabouqi/"><img src="https://img.shields.io/badge/-ahmad__aldabouqi_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/mmmmmmmgymmmmmmmmmm/"><img src="https://img.shields.io/badge/-Ahmad_AlDabouqi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://dev.to/ahmadaldabouqii"><img src="https://img.shields.io/badge/-Ahmad_AlDabouqi-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
+<a href="https://www.quora.com/profile/Ahmad-Raed-11"><img src="https://img.shields.io/badge/-Ahmad_AlDabouqi-1769FF?style=flat&logo=Quora&logoColor=white"/></a>
+<a href="https://ltuc-asac.slack.com/team/U01NG53LMQ8"><img src="https://img.shields.io/badge/Ahmad-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
+</p>

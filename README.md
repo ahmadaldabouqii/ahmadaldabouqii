@@ -22,11 +22,12 @@
 
 <p align="center">
 <a href="https://twitter.com/Ahmad_AlDabouqi"><img src="https://img.shields.io/badge/-@Ahmad__AlDabouqi-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ahmad-aldabouqi-3bb722160/"><img src="https://img.shields.io/badge/-Ahmad%20AlDabouqi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aldabouqiahmad@gmail.com"><img src="https://img.shields.io/badge/-aldabouqiahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmad-aldabouqi-3bb722160/"><img src="https://img.shields.io/badge/-Ahmad%20AlDabouqi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://dev.to/ahmadaldabouqii"><img src="https://img.shields.io/badge/-Ahmad_AlDabouqi-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
 <a href="https://instagram.com/ahmad_aldabouqi/"><img src="https://img.shields.io/badge/-db-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/mmmmmmmgymmmmmmmmmm/"><img src="https://img.shields.io/badge/-Ahmad_AlDabouqi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://dev.to/ahmadaldabouqii"><img src="https://img.shields.io/badge/-Ahmad_AlDabouqi-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
+
 <!-- <a href="https://www.quora.com/profile/Ahmad-Raed-11"><img src="https://img.shields.io/badge/Ahmad%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/></a>
 <a href="https://ltuc-asac.slack.com/team/U01NG53LMQ8"><img src="https://img.shields.io/badge/Ahmad-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a> -->
 </p>

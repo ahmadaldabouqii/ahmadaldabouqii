@@ -33,7 +33,7 @@
 
 <p align="center">
 <a href="https://github.com/ahmadaldabouqii">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadaldabouqii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ahmadaldabouqii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Ahmad Github Stats"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadaldabouqii&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

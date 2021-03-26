@@ -27,7 +27,9 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android)
+![Android Studio](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
+
+<p></p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 

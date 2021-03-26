@@ -1,4 +1,4 @@
-<img src="./assets/HandWave.gif" style="margin-top:10px;" width='35' align="left"/><h2 style="margin:0;">Hey there! I'm Ahmad</h2>
+<img src="./assets/HandWave.gif" style="margin-top:10px;" width='35' align="left"/><h2 align="left" style="margin:0;">Hey there! I'm Ahmad</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadaldabouqii&style=plastic&label=Profile+visits" alt="ahmadaldabouqii" /> </p>
 <p align="center">
 <img height="350px" width="1000px" src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">

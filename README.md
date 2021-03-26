@@ -1,9 +1,9 @@
-<p></p>
+<img height="350px" width="1000px" src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmad</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadaldabouqii&style=plastic&label=Profile+visits" alt="ahmadaldabouqii" /> </p>
 <p align="center">
-<img height="350px" width="1000px" src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
+
 
 *I'm a junior software engineer, I am 23 years old,*
 *I Was Studied at <a href="https://www.zuj.edu.jo/">AlZaytoonah Private University</a> in Computer Information System Department(CIS). I have some previous work experience here in Amman*, ***I trained in a company as an Android developer. Some technologies I enjoy working with include Android(Java), Firebase, (JavaScript, HTML+CSS). Now I am studying software development at ASAC.***

@@ -3,9 +3,8 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmad</h2>
 <img height="350px" width="1000px" src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
 
-
-*I'm a junior software engineer, I am 23 years old,*
-*I Was Studied at <a href="https://www.zuj.edu.jo/">AlZaytoonah Private University</a> in Computer Information System Department(CIS). I have some previous work experience here in Amman*, ***I trained in a company as an Android developer. Some technologies I enjoy working with include Android(Java), Firebase, (JavaScript, HTML+CSS). Now I am studying software development at ASAC.***
+_I'm a junior software engineer, I am 23 years old,_
+_I Was Studied at <a href="https://www.zuj.edu.jo/">AlZaytoonah Private University</a> in Computer Information System Department(CIS). I have some previous work experience here in Amman_, **_I trained in a company as an Android developer. Some technologies I enjoy working with include Android(Java), Firebase, (JavaScript, HTML+CSS). Now I am studying software development at ASAC._**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -14,8 +13,6 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)\
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
@@ -24,10 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)<br><br>
-
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;<br><br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 

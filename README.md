@@ -36,6 +36,7 @@ _I Was Studied at <a href="https://www.zuj.edu.jo/">AlZaytoonah Private Universi
 
 <p align="center">
 
+<a href="https://twitter.com/intent/follow?screen_name=Ahmad_AlDabouqi">
 <img src="https://img.shields.io/twitter/follow/Ahmad_AlDabouqi?style=social&logo=twitter" alt="follow on Twitter"></a>
 <a href="mailto:aldabouqiahmad@gmail.com"><img src="https://img.shields.io/badge/-aldabouqiahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ahmad-aldabouqi-3bb722160/"><img src="https://img.shields.io/badge/-Ahmad%20AlDabouqi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>

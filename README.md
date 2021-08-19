@@ -3,8 +3,8 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmad</h2>
 <img height="350px" width="1000px" src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
 
-_I'm a junior Web Developer, I am 23 years old,_
-_I Was Studied at <a href="https://www.zuj.edu.jo/">AlZaytoonah Private University</a> in Computer Information System Department(CIS). I have some previous work experience here in Amman_, **_I trained in a company as an Android developer, Also I trained in ASAC in Web Development Field._**
+**a Graduate of Computer Information Systems(CIS) with experience working across the web of software development.
+I’ve built projects with small teams, now I train on udemy website.**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

@@ -3,7 +3,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmad</h2>
 <img height="350px" width="1000px" src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
 
-### **_a Graduate of Computer Information Systems(CIS) with experience working across the web of software development. I’ve built projects with small teams, now I train on udemy website._**</br></br>
+### **_a Graduate of Computer Information Systems(CIS) with experience working across the web of software development. I’ve built projects with small teams, now I train on udemy website. Now I trainee as a full-stack developer at Orange Coding Academy_**</br></br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 

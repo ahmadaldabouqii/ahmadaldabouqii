@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadaldabouqii&style=plastic&label=Profile+visits" alt="ahmadaldabouqii" /> </p>
 <p align="center">
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmad</h2>
-<img height="600px" width="1000px" src="./assets/img-section.avif">
+<img height="350px" width="1000px" src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
 
 ### **_a Graduate of Computer Information Systems(CIS) with experience working across the web of software development. I’ve built projects with small teams, Now I trainee as a full-stack developer at Orange Coding Academy._**</br></br>
 

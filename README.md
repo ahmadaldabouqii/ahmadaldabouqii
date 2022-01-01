@@ -3,23 +3,25 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmad</h2>
 <img height="350px" width="1000px" src="https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg">
 
-### **_a Graduate of Computer Information Systems(CIS) with experience working across the web of software development. I’ve built projects with small teams, Now I trainee as a full-stack developer at Orange Coding Academy._**</br></br>
+### **_Passion for programming with experience working across web development. I have a clear, logical mind with a practical approach to problem-solving, self-learning abilities. I enjoy overcoming challenges and sharing my knowledge with others._**</br></br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Skills
+### 🛠 &nbsp;Tec
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=PINK)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\
+![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?logo=react&logoColor=007ACC&style=flat)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?logo=PHP&logoColor=007ACC&style=flat)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![WordPress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;<br><br>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)<br><br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 

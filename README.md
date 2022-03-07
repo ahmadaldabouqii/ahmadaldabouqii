@@ -5,7 +5,7 @@
 
 ### **_Passion for programming with experience working across web development. I have a clear, logical mind with a practical approach to problem-solving, self-learning abilities. I enjoy overcoming challenges and sharing my knowledge with others._**</br></br>
 
-<img src="./assets/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Night Coding" width="350px" align="right" /> </br>
+<img src="./assets/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Night Coding" width="350px" align="right" />
 
 ### 🛠 &nbsp;Technologies | Softwares
 
@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)<br><br>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)</br></br></br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 

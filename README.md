@@ -5,7 +5,7 @@
 
 ### **_Passion for programming with experience working across web development. I have a clear, logical mind with a practical approach to problem-solving, self-learning abilities. I enjoy overcoming challenges and sharing my knowledge with others._**</br></br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Night Coding" width="350px" align="right"/>
 
 ### 🛠 &nbsp;Technologies | Softwares
 

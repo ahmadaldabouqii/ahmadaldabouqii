@@ -1,5 +1,5 @@
 ### Hi, I'm Ahmad Aldabouqi 👋
-- 💼 I’m currently working as back-end developer at JoAcademy;
+- 💼 I’m currently working as Software Engineer at JoAcademy;
 - 🎓 graduated in CIS at Al-Zaytoonah university;
 - 💬 Ask me about anything, I am happy to help;
 - 🔧 I am always looking to learn new technologies;
